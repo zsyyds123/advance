@@ -1,4 +1,4 @@
-// 增加一个减法功能
+// 增加一个乘法功能
 function chen(a,b){
     return a+b
 }
