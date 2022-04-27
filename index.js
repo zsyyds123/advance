@@ -1,5 +1,5 @@
 // 增加一个减法功能
-function janfa(a,b){
+function chen(a,b){
     return a+b
 }
-janfa(1,2)
+chen(1,2)
