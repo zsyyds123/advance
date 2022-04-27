@@ -1,4 +1,5 @@
-function sum(){
-    return a+b
+// 增加一个乘法功能
+function chen(){
+    return a*b
 }
-sum()
+chen()
