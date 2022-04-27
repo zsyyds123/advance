@@ -1,4 +1,5 @@
-function sum(a,b){
+// 增加一个减法功能
+function janfa(a,b){
     return a+b
 }
-sum(1,2)
+janfa(1,2)
